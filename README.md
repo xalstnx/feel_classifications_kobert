@@ -106,7 +106,7 @@ LabelEncoder를 사용하여 감정 라벨링
 ![image](https://user-images.githubusercontent.com/22045179/124866357-41df4700-dff7-11eb-9527-6ded74405894.png)
 ![image](https://user-images.githubusercontent.com/22045179/124866379-4c99dc00-dff7-11eb-97d9-0db66ae5a9c6.png)
 
-- 마지막의 test acc는 test set의 예측값과 label값이 같을 경우 올라감
+- 마지막의 test acc는 test set의 예측값과 label값이 같을 경우 증가함
 
 ---
 
@@ -115,3 +115,5 @@ LabelEncoder를 사용하여 감정 라벨링
 ![image](https://user-images.githubusercontent.com/22045179/124866605-a7cbce80-dff7-11eb-8f04-0ccd4c39885d.png)
 ![image](https://user-images.githubusercontent.com/22045179/124866632-b1edcd00-dff7-11eb-98a8-c404c627573e.png)
 
+- 가장 높은 값을 출력하고, 그 다음으로 높은 값을 출력
+- 두번째로 높은 값이 0보다 작으면 출력하지 
