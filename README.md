@@ -124,7 +124,7 @@ LabelEncoder를 사용하여 감정 라벨링
 train - epoch가 진행되면서 loss가 점점 떨어지고, 정확도가 이상적으로 높아짐
 test(val) - epoch가 진행되면서 loss가 떨어지다가 다시 증가하고, 정확도는 0.5정도에서 큰 변동이 없음
 
-#### train은 잘되었지만 test(val)에서 loss가 증가하고, 정확도가 낮은 원인 분석
+### train은 잘되었지만 test(val)에서 loss가 증가하고, 정확도가 낮은 원인 분석
 1. overfitting
 2. 학습데이터 라벨링의 문제
 3. 학습데이터 부족
@@ -141,5 +141,13 @@ test(val) - epoch가 진행되면서 loss가 떨어지다가 다시 증가하고
 ##### 3. 학습데이터 부족
 - 학습데이터셋의 데이터수가 38,594문장으로 fine-tuning을 하기에 부족한 양은 아니라고 판단됨
 
-#### test(val)에서의 낮은 정확도와 높은 loss는 학습데이터 라벨링의 문제
+### test(val)에서의 낮은 정확도와 높은 loss는 학습데이터 라벨링의 문제
+
+---
+
+### csv로 저장된 테스트파일로 테스팅에서의 정확도 분석
+- ![image](https://user-images.githubusercontent.com/22045179/124868879-650bf580-dffb-11eb-88a1-49c8ec278443.png)
+
+![image](https://user-images.githubusercontent.com/22045179/124868888-69381300-dffb-11eb-9cd4-49da5fc8d84b.png)
+
 
