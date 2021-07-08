@@ -64,7 +64,7 @@ LabelEncoder를 사용하여 감정 라벨링
 ![image](https://user-images.githubusercontent.com/22045179/124865216-35f28580-dff5-11eb-9d95-4d8634fbc089.png)
 
 ###### test acc 비교
-![image](https://user-images.githubusercontent.com/22045179/124865219-39860c80-dff5-11eb-977c-b4a2a455e1ef.png)
+![image](https://user-images.githubusercontent.com/22045179/124865394-89fd6a00-dff5-11eb-92d7-77e785abbf9e.png)
 
 ---
 
