@@ -116,4 +116,4 @@ LabelEncoder를 사용하여 감정 라벨링
 ![image](https://user-images.githubusercontent.com/22045179/124866632-b1edcd00-dff7-11eb-98a8-c404c627573e.png)
 
 - 가장 높은 값을 출력하고, 그 다음으로 높은 값을 출력
-- 두번째로 높은 값이 0보다 작으면 출력하지 
+- 두번째로 높은 값이 0보다 작으면 출력하지 않음 
