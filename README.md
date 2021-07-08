@@ -56,7 +56,7 @@ LabelEncoder를 사용하여 감정 라벨링
 
 - 기본 batch_size는 64이지만 32일때와 16일때 결과를 비교해보면 batch_size가 16일때 loss가 더 낮고, 정확도가 높은 결과가 나옴
 
-##### train/ test, batch_size 32/16 별 loss, 정확도 비교
+#### train/ test, batch_size 32/16 별 loss, 정확도 비교
 ###### loss 비교
 ![image](https://user-images.githubusercontent.com/22045179/124865132-18252080-dff5-11eb-819d-f9fcf2bdf4fc.png)
 
