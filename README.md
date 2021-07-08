@@ -10,9 +10,11 @@
 
 ### 구글 드라이브 연결
 ![image](https://user-images.githubusercontent.com/22045179/124860165-291d6400-dfec-11eb-9031-00ffb7320b87.png)
+
 위 코드를 통해 자신의 구글 드라이브와 연결하여 구글 드라이브 내의 파일을 사용
 
 ![image](https://user-images.githubusercontent.com/22045179/124860302-61bd3d80-dfec-11eb-965f-73f99b6e1634.png)
+
 위와 같은 경로의 파일 사용
 
 ![image](https://user-images.githubusercontent.com/22045179/124860371-7f8aa280-dfec-11eb-96f3-3f878fb1cffd.png)
