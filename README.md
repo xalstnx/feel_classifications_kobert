@@ -3,6 +3,9 @@
 
 ---
 
+### 기본코드는 네이버 영화 리뷰 분류를 참조함
+- https://github.com/e9t/nsmc
+
 ## colab 링크
 ### https://colab.research.google.com/drive/1jWubP_Y5fZDTRuxmE9q24K_fKDFJQerq?usp=sharing
 
