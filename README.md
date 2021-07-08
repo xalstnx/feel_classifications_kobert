@@ -148,8 +148,8 @@ test(val) - epoch가 진행되면서 loss가 떨어지다가 다시 증가하고
 ### 테스팅
 #### csv로 저장된 테스트파일로 테스팅에서의 정확도 분석
 - 직접 만든 14개의 테스트데이터로 테스팅
-![image](https://user-images.githubusercontent.com/22045179/124868888-69381300-dffb-11eb-9cd4-49da5fc8d84b.png)
 
+![image](https://user-images.githubusercontent.com/22045179/124868888-69381300-dffb-11eb-9cd4-49da5fc8d84b.png)
 
 - 테스트 정확도 = 0.6428571428571429
 - 테스트 결과 대략 0.643정도의 정확도가 도출되었는데, 두번째로 높은 감정까지 포함하게 된다면 0.8571428571428571의 정확도가 도출됨
