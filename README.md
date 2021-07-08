@@ -33,4 +33,28 @@
 ### 감정 라벨링(문자 -> 숫자)
 #### {0: '공포', 1: '놀람', 2: '분노', 3: '슬픔', 4: '중립', 5: '행복', 6: '혐오'}
 LabelEncoder를 사용하여 감정 라벨링
+
 ![image](https://user-images.githubusercontent.com/22045179/124860405-8f09eb80-dfec-11eb-9b58-dc52e3a46b6f.png)
+
+---
+
+### train/val 분리
+![image](https://user-images.githubusercontent.com/22045179/124861131-e78db880-dfed-11eb-9df9-f605f8857c07.png)
+
+- train 80%
+- val 20%
+
+---
+
+### 두가지 테스트 방식에 따른 데이터변환
+![image](https://user-images.githubusercontent.com/22045179/124861251-2885cd00-dfee-11eb-83bd-a79d8330dbf7.png)
+
+---
+
+### 파라미터 세팅
+![image](https://user-images.githubusercontent.com/22045179/124861292-3b000680-dfee-11eb-96ed-d09218ffcc7d.png)
+
+- 기본 batch_size는 64이지만 64일때와 16일때 결과를 비교해보면 batch_size가 16일때 loss가 더 낮고, 정확도가 높은 결과가 나옴
+![image](https://user-images.githubusercontent.com/22045179/124862529-81566500-dff0-11eb-823b-051b2f819fb9.png)
+
+
